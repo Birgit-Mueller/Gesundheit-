@@ -2,13 +2,16 @@
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
 
-# Project Title
+# Ernährung 
 
 Final project for the Building AI course
 
 ## Summary
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
+Eine App, die Ernährung analysiert, auf Basis von Vorlieben,Einschränkungen und Gesundheit  
+Verknüpfung Blutbild
+Erstellung von Einkaufslisten
+Automatische Einkäufe 
 
 
 ## Background
@@ -84,7 +87,7 @@ How could your project grow and become something even more? What kind of skills,
 ## Zusammenfassung 
 Eine App, die Ernährung analysiert, auf Basis von Vorlieben,Einschränkungen und Gesundheit  
 Verknüpfung Blutbild 
-Erstellen von Einkaufslisten
+ von Einkaufslisten
 Automatische Einkäufe 
 ##Bearbeitung 
 Building AI course project
